@@ -85,6 +85,23 @@ A collection of frontend and backend projects built while exploring modern web t
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujjwal-2504&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=ujjwal-2504&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal-2504&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-2504&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-bhadani-92a5aa2a7)
